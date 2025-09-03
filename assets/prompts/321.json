@@ -1,0 +1,10 @@
+{
+    "video_prompt": "A young boy is sitting on a couch, playing an acoustic guitar and singing a song. The room is cozy with a beige couch, a window with blinds, and a wooden floor. The boy is wearing a dark blue t-shirt and patterned shorts with animal prints. He strums the guitar and sings, his facial expressions changing as he sings. The background music is a guitar and singing.",
+    "audio_prompt": [
+        "Guitar music, singing"
+    ],
+    "speech_prompt": {
+        "speaker": "Young boy",
+        "text": "You make me happy when the clouds are gray"
+    }
+}
