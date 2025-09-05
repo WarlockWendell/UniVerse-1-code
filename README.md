@@ -6,10 +6,10 @@
 
 <div align="center">
   <a href="https://huggingface.co/dorni/UniVerse-1"><img src="https://img.shields.io/static/v1?label=UniVerse-1&message=HuggingFace&color=yellow"></a> &ensp;
-  <a href="https://huggingface.co/datasets/dorni/Uni-Bench"><img src="https://img.shields.io/static/v1?label=Uni-Bench&message=HuggingFace&color=yellow"></a>
+  <a href="https://huggingface.co/datasets/dorni/Verse-Bench"><img src="https://img.shields.io/static/v1?label=Verse-Bench&message=HuggingFace&color=yellow"></a>
 </div>
 <div align="center">
-  <a href="https://dorniwang.github.io/UniVerse-1"><img src="https://img.shields.io/static/v1?label=Project&message=Page&color=green"></a>
+  <a href="https://dorniwang.github.io/UniVerse-1"><img src="https://img.shields.io/static/v1?label=Project&message=Page&color=green"></a> &ensp;
   <a href="https://arxiv.org/abs/2507.16632"><img src="assets/arxiv.svg"></a> &ensp;
   <a href="https://github.com/stepfun-ai/Step-Audio2/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue?&color=blue"/></a>
 </div>
@@ -18,8 +18,8 @@ This is official inference code of UniVerse-1
 
 ## 🔥🔥🔥 News!!
 <!-- * Sep 03, 2025: 👋 We release the  # TODO -->
-<!-- * Sep 08, 2025: 👋 We release Uni-Bench metric tools, [Uni-Bench tools](https://github.com/Dorniwang/Uni-Bench).
-* Sep 05, 2025: 👋 We release Uni-Bench datasets, [Uni-Bench Dataset](https://huggingface.co/datasets/dorni/Uni-Bench).
+<!-- * Sep 08, 2025: 👋 We release Verse-Bench metric tools, [Verse-Bench tools](https://github.com/Dorniwang/Verse-Bench).
+* Sep 05, 2025: 👋 We release Verse-Bench datasets, [Verse-Bench Dataset](https://huggingface.co/datasets/dorni/Verse-Bench).
 * Sep 05, 2025: 👋 We release model weights of [UniVerse-1](https://huggingface.co/dorni/UniVerse-1).
 * Sep 05, 2025: 👋 We release the technical report of [UniVerse-1](https://arxiv.org/pdf/2507.16632). -->
 * Sep 03, 2025: 👋 We release the project page of [UniVerse-1](https://dorniwang.github.io/UniVerse-1).
