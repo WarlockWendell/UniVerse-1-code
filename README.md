@@ -5,7 +5,7 @@
 # UniVerse-1: Unified Audio-Video Generation via Stitching of Experts.
 
 <div align="center">
-  <a href="https://huggingface.co/dorni/UniVerse-1"><img src="https://img.shields.io/static/v1?label=UniVerse-1&message=HuggingFace&color=yellow"></a> &ensp;
+  <a href="https://huggingface.co/dorni/UniVerse-1-Base"><img src="https://img.shields.io/static/v1?label=UniVerse-1&message=HuggingFace&color=yellow"></a> &ensp;
   <a href="https://huggingface.co/datasets/dorni/Verse-Bench"><img src="https://img.shields.io/static/v1?label=Verse-Bench&message=HuggingFace&color=yellow"></a>
 </div>
 <div align="center">
@@ -19,9 +19,9 @@ This is official inference code of UniVerse-1
 ## 🔥🔥🔥 News!!
 <!-- * Sep 03, 2025: 👋 We release the  # TODO -->
 <!-- * Sep 08, 2025: 👋 We release Verse-Bench metric tools, [Verse-Bench tools](https://github.com/Dorniwang/Verse-Bench).
-* Sep 05, 2025: 👋 We release Verse-Bench datasets, [Verse-Bench Dataset](https://huggingface.co/datasets/dorni/Verse-Bench).
-* Sep 05, 2025: 👋 We release model weights of [UniVerse-1](https://huggingface.co/dorni/UniVerse-1).
-* Sep 05, 2025: 👋 We release the technical report of [UniVerse-1](https://arxiv.org/pdf/2507.16632). -->
+* Sep 08, 2025: 👋 We release Verse-Bench datasets, [Verse-Bench Dataset](https://huggingface.co/datasets/dorni/Verse-Bench).
+* Sep 08, 2025: 👋 We release model weights of [UniVerse-1](https://huggingface.co/dorni/UniVerse-1-Base).
+* Sep 08, 2025: 👋 We release the technical report of [UniVerse-1](https://arxiv.org/pdf/2507.16632). -->
 * Sep 03, 2025: 👋 We release the project page of [UniVerse-1](https://dorniwang.github.io/UniVerse-1).
 
 
@@ -42,7 +42,7 @@ UniVerse-1 is a unified, Veo-3-like model that simultaneously generates synchron
 ## Model Download
 | Models   | 🤗 Hugging Face |
 |-------|-------|
-| UniVerse-1 Base | [UniVerse-1](https://huggingface.co/dorni/UniVerse-1) |
+| UniVerse-1 Base | [UniVerse-1](https://huggingface.co/dorni/UniVerse-1-Base) |
 
 download our pretrained model into ./checkpoints/UniVerse-1-base/
 
@@ -92,7 +92,7 @@ The code in the repository is licensed under [Apache 2.0](LICENSE) License.
 ```
 @misc{wang2025universe-1,
     title={UniVerse-1:A Unified Audio-Video Generation Framework via Stitching of Expertise},
-    author={Wang, Duomin and Zuo, wei and Li, Aojie and Chen, Ling-Hao and Liao, Xinyao and Zhou, Deyu and Yin, Zixin and Dai, Xili and Yu, Gang},
+    author={Wang, Duomin and Zuo, wei and Li, Aojie and Chen, Ling-Hao and Liao, Xinyao and Zhou, Deyu and Yin, Zixin and Dai, Xili and Jinag Daxin, Yu, Gang},
     journal={arxiv},
     year={2025}
 }
