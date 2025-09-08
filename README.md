@@ -10,7 +10,7 @@
 </div>
 <div align="center">
   <a href="https://dorniwang.github.io/UniVerse-1"><img src="https://img.shields.io/static/v1?label=Project&message=Page&color=green"></a> &ensp;
-  <a href="https://arxiv.org/abs/2507.16632"><img src="assets/arxiv.svg"></a> &ensp;
+  <a href=""><img src="assets/arxiv.svg"></a> &ensp;
   <a href="https://github.com/stepfun-ai/Step-Audio2/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue?&color=blue"/></a>
 </div>
 
