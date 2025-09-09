@@ -93,7 +93,7 @@ The code in the repository is licensed under [Apache 2.0](LICENSE) License.
 ```
 @misc{wang2025universe-1,
     title={UniVerse-1:A Unified Audio-Video Generation Framework via Stitching of Expertise},
-    author={Wang, Duomin and Zuo, wei and Li, Aojie and Chen, Ling-Hao and Liao, Xinyao and Zhou, Deyu and Yin, Zixin and Dai, Xili and Jinag Daxin, Yu, Gang},
+    author={Wang, Duomin and Zuo, wei and Li, Aojie and Chen, Ling-Hao and Liao, Xinyao and Zhou, Deyu and Yin, Zixin and Dai, Xili and Jiang Daxin, Yu, Gang},
     journal={arxiv},
     year={2025}
 }
