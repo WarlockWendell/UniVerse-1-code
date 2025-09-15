@@ -33,6 +33,8 @@
 
     num_frames: 25FPS，100帧为4s
 
+    csv_path: 就是 javisbench 那个csv
+
     height, width: 模型中预设的只有如下几种分辨率，详细见 `fastvideo/sample/batch_sample_universe.py` 的 211 行.
 
     ```
