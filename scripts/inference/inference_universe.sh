@@ -1,11 +1,11 @@
 #!/bin/bash
 
-num_gpus=4
-/data/workspace/env/miniconda/envs/universe_test/bin/torchrun --nnodes=1 --nproc_per_node=$num_gpus --master_port 23333 \
-    fastvideo/sample/sample_universe.py \
-    --model_path ./huggingfaces/Wan-AI/Wan2.1-T2V-1.3B-Diffusers/ \
-    --ace_path ./huggingfaces/ACE-Step/ACE-Step-v1-3.5B/ \
-    --num_frames 125 \
+num_gpus=2
+/home/ae86/anaconda3/envs/universe/bin/torchrun --nnodes=1 --nproc_per_node=$num_gpus --master_port 23333 \
+    fastvideo/sample/batch_sample_universe.py \
+    --model_path ./huggingfaces/Wan2.1-T2V-1.3B-Diffusers/ \
+    --ace_path ./huggingfaces/ACE-Step-v1-3.5B/ \
+    --num_frames 10 \
     --height 256 \
     --width 256 \
     --num_inference_steps 35 \
@@ -14,6 +14,5 @@ num_gpus=4
     --seed 10240 \
     --cpu_offload \
     --output_path ./output/ \
-    --transformer_path ./checkpoints/UniVerse-1-base/ \
-    --refimg_path assets/images/321.jpg \
-    --prompt_path assets/prompts/321.json \
+    --transformer_path checkpoints/UniVerse-1-Base/ \
+    --csv_path ./meta.csv
