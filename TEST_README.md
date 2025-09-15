@@ -1,5 +1,7 @@
 1. 配好环境
     ```
+    conda create -n universe python=3.12
+    conda activate universe
     bash env_setup.sh
     ```
  
